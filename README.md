@@ -1,4 +1,4 @@
-# customer-shopping-behavior-analysis
+# Customer-Shopping-Behavior-Analysis
 This project focuses on analyzing customer shopping behavior using a transactional dataset of 3,900 purchases. The objective is to extract meaningful insights about customer preferences, spending habits, and engagement patterns to support data-driven business decision-making.
 
 The project combines Python (data processing), SQL (analysis), and Power BI (visualization) to deliver a complete end-to-end data analytics solution
